@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&width=770&height=60&lines=Hi++there%F0%9F%91%8B%2C++I'm+Sivaganesh+Pavithiran)](https://git.io/typing-svg)
  -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=50&lines=Hi++there%F0%9F%91%8B%2C++I'm+Sivaganesh+Pavithiran" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=50&lines=Hi++there%F0%9F%91%8B%2C++I'm+Muralitharan+Abinath" />
 </p>
 
 <h3 align="center"><b><i>2<sup>nd</sup> Year undergraduate of Computer Science and Technology</i></b></h3>
@@ -30,7 +30,7 @@
 
  ```python
   class WhoAmI:
-    user = 'Abinath7'
+    user = 'Muralitharan Abinath'
     currently_Studied = "Bachelor of Science Honours in Computer Science and Technology"
     currently_learning = "Java, Python, JavaScript, React JS, PHP"
     cool_fact = "Coding Bugs were NOT named after an actual bug"
