@@ -4,14 +4,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=50&lines=Hi++there%F0%9F%91%8B%2C++I'm+Muralitharan+Abinath" />
 </p>
 
-<h3 align="center"><b><i>2<sup>nd</sup> Year Computer Science Undergraduate Student at Uva Wellassa Universty of Sri Lanka</i></b></h3>
+<h3 align="center"><b><i>2<sup>nd</sup> Year  Computer Science Undergraduate Student at Uva Wellassa Universty of Sri Lanka</i></b></h3>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=95&lines=Competitive+Programmer;Always+learning+new+things)](https://git.io/typing-svg) -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=95&lines=Competitive+Programmer;Always+learning+new+things" />
 </p>
 
-[![my_portfolio](https://github.com/Abinath7/Abinath7/blob/main/assests/portfolio.png)](https://abinath7.github.io/My_Portfolio/)</br>
+<a href="https://Abinath7.github.io/My_Portfolio/" target="_blank">
+  <img src="https://github.com/Abinath7/Abinath7/blob/main/assests/portfolio.png" alt="my_portfolio" />
+</a>
 
 <!-- ![](https://komarev.com/ghpvc/?username=Pavithiran2000&color=19BB19&style=flat-square) -->
 <p align="center">
