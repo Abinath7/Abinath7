@@ -102,7 +102,7 @@
 <h3 align="center"><b><i>IDEs and Design Tools </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=netbeans,pycharm,codeblocks,vscode,eclipse,ps" />
+   <img src="https://skillicons.dev/icons?i=pycharm,vscode,eclipse,ps" />
   </a>
 </p>
 
@@ -126,14 +126,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img alt="Pavithiran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithiran2000&theme=blue-green&layout=compact" height="192px"/>
+<img alt="Top languages used in repo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinath7&theme=blue-green&layout=compact" height="192px"/>
 </div>
 
 </br>
 
 <div align="center">
-        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Abinath7's streak" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abinath7&theme=blue_green"/>
-        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Abinath7's streak" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abinath7&theme=blue_green"/>
+        <img title="Top languages by repo" alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abinath7&theme=blue_green"/>
+        <img title="Top languages by commit" alt="Top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abinath7&theme=blue_green"/>
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithiran2000&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavithiran2000&theme=blue_green)
