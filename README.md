@@ -63,7 +63,7 @@
 <a href = "https://www.linkedin.com/in/abinath-muralitharan-58b028184/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href="mailto:muralitharanabinath7@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
-
+</a>
 <a href = "https://www.hackerrank.com/profile/abinath157" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
 </p> 
   
